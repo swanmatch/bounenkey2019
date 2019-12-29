@@ -4,15 +4,15 @@ Presented by 魔王
 
 >>>
 
-# 例
+### example
 
-![silverbullet44](https://)
+![silverbullet44](images/00.jpg)
 
 >>>
 
 # 題材
 
-![zero-one](https://)
+![zero-one](https://image-cf.kddi-video.com/400/4008c8e287df3f139246c45bb966cae3/fit-background-transparent/1567135440/750x422.png)
 
 >>>
 
@@ -24,7 +24,10 @@ Presented by 魔王
 
 ---
 
-舞台は人工知能搭載型人型ロボット「ヒューマギア」が社会で活躍する時代。  
+### Story
+
+舞台は人工知能搭載型人型ロボット「ヒューマギア」が社会で活躍する時代。
+
 ヒューマギアを製造する飛電インテリジェンスの二代目社長・飛電或人と、
 ヒューマギアを暴走させ怪人マギアとして操るサイバーテロリスト・滅亡迅雷.netとの闘いを描く。  
 
@@ -36,7 +39,8 @@ Presented by 魔王
 
 ## 飛電或人
 
-![aruto](https://)
+<img src="https://www.tv-asahi.co.jp/zero-one/cast/img/aruto.png" alt="aruto" align="left" style="width: 50%;">
+
 主人公。AIに育てられる。  
 祖父が飛電インテリジェンスの創業者。
 
@@ -46,7 +50,8 @@ Presented by 魔王
 
 ## イズ
 
-![izu:left](https://)
+<img src="https://one-search.net/wp-content/uploads/2019/09/G_gMBlOy6VZohp11567514714_1567514730.jpg" alt="izu" align="left" style="width: 50%;">
+
 社長秘書。  
 感情のないロボットのハズだが徐々に…
 
@@ -54,14 +59,13 @@ Presented by 魔王
 
 ## 刃 唯阿（やいば ゆあ）
 
-![yaiba](https://)
+<img src="https://www.kamen-rider-official.com/summaries/4/thumbnail_image2" alt="yaiba" align="left" style="width: 50%;">
+
 対人工知能特務機関A.I.M.S.の技術顧問兼特殊技術研究所最高責任者。  
-仮面ライダーバルキリーに変身する。  
 運動神経抜群、頭脳明晰、そしてなんといっても容姿端麗！
 
 合理主義で冷静沈着な正確だが、部下の怪我を負った際には取り乱すシーンもあり、情に熱い一面も‥！
 
-実はZAIA(表向きは飛電の協力会社)からの出向社員…  
 敵それとも味方か…！？
 
 > レギュラーの女性仮面ライダーはシリーズ初！！
@@ -72,14 +76,14 @@ Presented by 魔王
 
 イズ、やいばさん、どちらが好みか意見が分かれるが…
 
-![izu](https://)
-![yaiba](https://)
+<img src="https://one-search.net/wp-content/uploads/2019/09/G_gMBlOy6VZohp11567514714_1567514730.jpg" alt="izu" style="width: 45%;">
+<img src="https://www.kamen-rider-official.com/summaries/4/thumbnail_image2" alt="yaiba" style="width: 45%;">
 
 ---
 
-# わたしはやいばさんがタイプです
+### わたしはやいばさんがタイプです
 
-![yaiba](https://)
+<img src="https://www.kamen-rider-official.com/summaries/4/thumbnail_image2" alt="yaiba" class="stretch">
 
 >>>
 
@@ -89,7 +93,7 @@ Presented by 魔王
 
 それでは気を取り直して
 
-## 写真基板の作り方(汗
+## 写真基板の作り方
 
 ---
 
@@ -128,7 +132,7 @@ Presented by 魔王
 
 ## 完成イメージ
 
-![](./images/99.png)
+![](./images/06.png)
 
 >>>
 
